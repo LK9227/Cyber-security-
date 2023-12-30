@@ -1,0 +1,30 @@
+another brower
+
+Brower add-ones
+
+proxy switchers for brute suits
+
+cookie editors
+
+website technoglogy Enumeration
+
+
+1# sudo su - root access
+
+2 # apt-get update
+
+3 # apt-get upgrade
+
+4 reboot
+
+5# sudo apt-get install chromium
+
+6# chromium
+
+7 go to the chromium store dowanlode 
+
+installtion beef freamwork 
+
+sudo apt-get install beef-xss
+
+and go config.yml file change the default password
